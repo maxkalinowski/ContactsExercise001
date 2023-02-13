@@ -1,6 +1,5 @@
 # read contacts.json and print the names of the contacts
 import json
-import csv
 import xml.etree.ElementTree as ET
 
 
